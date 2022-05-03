@@ -16,7 +16,7 @@ Pankcakeswap, Sushiswap, Pantherswap, Moonswap, Quickswap and more
   ##### ✔ ICO, Blockchain Copyrighting and Whitepapers
 
 ### - Web Site development
-  ##### ✔ React.js, Angular.js, TypeScript, JavaScript, Bootstrap
+  ##### ✔ React.js,Next.js, Angular.js, TypeScript, JavaScript, Bootstrap
   ##### ✔ Node.js, Express.js, ASP .Net Core, Firebase, AWS, Rest API, GraphQL
   ##### ✔ MySQL, Sqlite, MongoDB, PostgreSQL
 
