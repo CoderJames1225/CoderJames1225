@@ -15,9 +15,13 @@ Pankcakeswap, Sushiswap, Pantherswap, Moonswap, Quickswap and more
   ##### ✔ Crypto Collectible Platforms and NFTs
   ##### ✔ ICO, Blockchain Copyrighting and Whitepapers
 
-### - Web Site development
-  ##### ✔ React.js,Next.js, Angular.js, TypeScript, JavaScript, Bootstrap
-  ##### ✔ Node.js, Express.js, ASP .Net Core, Firebase, AWS, Rest API, GraphQL
+### - Web Site Development
+ #### Frontend Development
+  ##### ✔ React.js,Next.js, Angular.js, TypeScript, JavaScript, Bootstrap, HTML, CSS, SCSS, Styled CSS, Tailwind CSS, etc
+ #### Backend Development 
+  ##### ✔ Node.js, Express.js, ASP .Net Core, Firebase, Strapi
+  ##### ✔ AWS, Heroku
+  ##### ✔ Rest API, GraphQL
   ##### ✔ MySQL, Sqlite, MongoDB, PostgreSQL
 
 ### 🌱 Feel free to contact me.  I am here to realize your idea.
