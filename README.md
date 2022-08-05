@@ -17,10 +17,10 @@ Pankcakeswap, Sushiswap, Pantherswap, Moonswap, Quickswap and more
 
 ### - Web Site Development
  #### Frontend Development
-  ##### ✔ React.js,Next.js, Angular.js, TypeScript, JavaScript, Bootstrap, HTML, CSS, SCSS, Styled CSS, Tailwind CSS, etc
+  ##### ✔ React.js, Next.js, Angular.js, TypeScript, JavaScript, Bootstrap, HTML, CSS, SCSS, Styled CSS, Tailwind CSS, etc
  #### Backend Development 
   ##### ✔ Node.js, Express.js, ASP .Net Core, Firebase, Strapi
-  ##### ✔ AWS, Heroku
+  ##### ✔ AWS, Heroku, Vercel
   ##### ✔ Rest API, GraphQL
   ##### ✔ MySQL, Sqlite, MongoDB, PostgreSQL
 
